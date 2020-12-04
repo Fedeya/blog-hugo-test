@@ -23,5 +23,3 @@ fields:
   config:
     required: false
   label: Description
-pages:
-- content/blog/my-second-post-in-my-personal-blog.md
