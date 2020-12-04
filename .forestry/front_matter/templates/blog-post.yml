@@ -23,3 +23,5 @@ fields:
   config:
     required: false
   label: Description
+pages:
+- content/blog/first-post-pa.md
